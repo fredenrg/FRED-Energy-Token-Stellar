@@ -1,1 +1,2 @@
 # FRED-Energy-Token-ERC20
+FRED Energy has now moved to an ERC20 token and is looking to enter the EV charging station market in Asia and the EU with Project Energise, a project aimed at niche EV charging segments where upfont costs are low and offer long term opportunities. Our other green projects involve electric and solar tuk-tuks, our marketplace of alternative energy products and Funding Research into Energy devices (FRED).
