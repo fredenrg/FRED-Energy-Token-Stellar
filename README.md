@@ -18,16 +18,16 @@ Organization name: FRED ENERGY Ltd<br>
 Website: https://fredenergy.org<br>
 Description: FRED Energy aims to promote and facilitate greater adoption and generation of alternative energy by consumers and Fund Research into Energy Devices (FRED)<br>
 Physical address: 27, Old Gloucester Street, LONDON<br>
-Official email: hello@fredenergy.org
+Official email: hello@fredenergy.org<br>
 
-Project links and Socials
+<strong>Project links and Socials</strong><br>
 
-Official website/blog http://fredenergy.org
-Token Sale https://token-sale.fredenergy.org
-Medium https://medium.com/@fredenergy.org
-Twitter https://twitter.com/energy_fred
-Telegram https://t.me/FREDEnergycommunity
-Discord https://discord.gg/uhAjg9w
-Facebook https://www.facebook.com/TheFredProjectOfficial
-Bitcointalk https://bitcointalk.org/index.php?topic=5160351
-Youtube https://www.youtube.com/playlist?list=PLT42cs8i5DsG5oPuJKCo53Rp3OkCF66lb
+Official website/blog http://fredenergy.org<br>
+Token Sale https://token-sale.fredenergy.org<br>
+Medium https://medium.com/@fredenergy.org<br>
+Twitter https://twitter.com/energy_fred<br>
+Telegram https://t.me/FREDEnergycommunity<br>
+Discord https://discord.gg/uhAjg9w<br>
+Facebook https://www.facebook.com/TheFredProjectOfficial<br>
+Bitcointalk https://bitcointalk.org/index.php?topic=5160351<br>
+Youtube https://www.youtube.com/playlist?list=PLT42cs8i5DsG5oPuJKCo53Rp3OkCF66lb<br>
