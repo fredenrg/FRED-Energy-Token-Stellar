@@ -1,3 +1,4 @@
+![fredlogo-bl-300sqpx](https://user-images.githubusercontent.com/39649555/57606829-c995ac00-757a-11e9-8cd6-40d40da13160.png)
 # FRED Energy Token is on the Stellar network
 FRED Energy has now moved to a custom token on the Stellar blockchain and is looking to enter the EV charging station market in Asia and the EU with Project Energise, a project aimed at niche EV charging segments where upfont costs are low and offer long term opportunities. Our other green projects involve electric and solar tuk-tuks, our marketplace of alternative energy products and Funding Research into Energy devices (FRED).
 
