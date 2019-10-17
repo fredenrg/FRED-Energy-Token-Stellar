@@ -32,3 +32,23 @@ Discord https://discord.gg/uhAjg9w<br>
 Facebook https://www.facebook.com/TheFredProjectOfficial<br>
 Bitcointalk https://bitcointalk.org/index.php?topic=5160351<br>
 Youtube https://www.youtube.com/playlist?list=PLT42cs8i5DsG5oPuJKCo53Rp3OkCF66lb<br>
+<br>
+The following are our projects Stellar addresses. They have been allocated as per the whitepaper http://fredenergy.org/whitepaper/FREDEnergy-Whitepaper-v1.1.pdf <br>
+You can view the balances here https://stellar.expert/explorer/public/asset/FRED-GCA73U2PZFWAXJSNVMEVPNPPJCZGETWPWZC6E4DJAIWP3ZW3BAGYZLV6-1?filter=asset-holders&order=desc <br>
+
+<br>
+ICO/IEO distribution
+GBDQSZLNSCBHK2RLQGUXY6TK5SM2B3B7YVEUBJ5T3ODH4IYHMOFOHUQQ<br>
+Project Reserve
+GDKUL2IYC53GAKN2B4ZXGZ6CJNZ4I75FUETP2FDFVXH3NE6YQULO2BSK<br>
+Marketing
+GAW7L3WHFBGT2ZLRP5BVVMUKLUD4W6BBOEGSYORDODPG327WROBM6KBU<br>
+Team
+GDBGVWLC54EM7EXJU4Z4QSOIGUYTI2FABRJURFBHKRDFEZJ5I5H5CPH2<br>
+Founder
+GCM5AZLIVNAZZYZWGMPV6KJ6S6QYCFSNUNUYKF2YNKK3FFT7OADSTPMC<br>
+Advisors
+GCKCLEFI3I6K4FYQ5ZGIZIQDT453XSHJMG4ZPXAMDMPBSCYXD2GWZ4DJ<br>
+Partners
+GA2UY5NDAXFT5GJQQR5GHE3SVFY2O5EIDD5BMGJPGMQQHFRWAVUT562K<br>
+
