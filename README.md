@@ -1,6 +1,6 @@
 ![fredlogo-bl-300sqpx](https://user-images.githubusercontent.com/39649555/57606829-c995ac00-757a-11e9-8cd6-40d40da13160.png)
 # FRED Energy Token is on the Stellar network
-FRED Energy has now moved to a custom token on the Stellar blockchain and is looking to enter the EV charging station market in Asia and the EU with Project Energise, a project aimed at niche EV charging segments where upfont costs are low and offer long term opportunities. Our other green projects involve electric and solar tuk-tuks, our marketplace of alternative energy products and Funding Research into Energy devices (FRED).
+FRED Energy has now moved to a custom token on the Stellar blockchain (FRED). Our green projects involve electric and solar tuk-tuks, our marketplace of alternative energy products that accepts cryptocurrencies alongside traditional methods of payment, and Funding Research into Energy devices (FRED). Further projects are looking towards entering the EV charging station market in Asia and the EU with Project Energise, a project aimed at niche EV charging segments where upfont costs are low and offer long term opportunities. 
 
 Total Supply 808,000,000<br>
 Ticker - FRED<br>
@@ -33,7 +33,7 @@ Facebook https://www.facebook.com/TheFredProjectOfficial<br>
 Bitcointalk https://bitcointalk.org/index.php?topic=5160351<br>
 Youtube https://www.youtube.com/playlist?list=PLT42cs8i5DsG5oPuJKCo53Rp3OkCF66lb<br>
 <br>
-The following are our projects Stellar addresses. They have been allocated as per the whitepaper http://fredenergy.org/whitepaper/FREDEnergy-Whitepaper-v1.1.pdf <br>
+The following are our projects Stellar addresses. They have been allocated as per the whitepaper http://fredenergy.org/whitepaper/FREDEnergy-Whitepaper-v1.4.pdf <br>
 You can view the balances here https://stellar.expert/explorer/public/asset/FRED-GCA73U2PZFWAXJSNVMEVPNPPJCZGETWPWZC6E4DJAIWP3ZW3BAGYZLV6-1?filter=asset-holders&order=desc <br>
 
 <br>
