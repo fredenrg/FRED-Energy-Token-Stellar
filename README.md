@@ -23,6 +23,8 @@ Official email: hello@fredenergy.org<br>
 
 <strong>Project links and Socials</strong><br>
 
+Pitch Deck - https://www.swipe.to/2191nm
+
 Official website/blog http://fredenergy.org<br>
 Token Sale https://token-sale.fredenergy.org<br>
 Medium https://medium.com/@fredenergy.org<br>
